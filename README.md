@@ -1,7 +1,7 @@
 # Trilha DevOps da 4Linux
 
 <!-- Altere a Flag abaixo com sua URL do seu usuário do Github -->
-<!--
+
 ![Pipeline Status](https://github.com/alsantosss/DevOpsLab-HelloWorld/actions/workflows/pipeline.yml/badge.svg) 
 
 
